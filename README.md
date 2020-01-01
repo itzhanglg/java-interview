@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/itzhanglg/java-knowledge-system" target="_blank">
+<a href="https://github.com/itzhanglg/java-interview" target="_blank">
     <svg class="svgIcon" aria-hidden="true">
         <use xlink:href="#icon-huabanfuben"></use>
     </svg>

@@ -6,7 +6,7 @@
 </a>
 </p>
 
-推荐使用  http://zhangligong.xyz/java-knowledge-system 在线阅读，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：阅读体验会更好。
+推荐使用  http://zhangligong.xyz/java-interview 在线阅读，在线阅读内容本仓库同步一致。这种方式阅读的优势在于：阅读体验会更好。
 
 
 ### 目录

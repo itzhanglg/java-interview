@@ -1,6 +1,6 @@
 ![logo](media/icon/java.svg)
-## java-knowledge-system
-> java知识体系全面介绍, 持续更新
+## java-interview
+> java面试题及相应知识点, 持续更新
 ## 勿浅尝辄止
 
 
@@ -8,7 +8,7 @@
 
 
 [GitHub](https://github.com/itzhanglg)
-[开始阅读](http://zhangligong.xyz/java-knowledge-system/#/README)
+[开始阅读](http://zhangligong.xyz/java-interview/#/README)
 
 <!-- 背景图片 -->
 

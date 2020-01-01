@@ -1,10 +1,6 @@
 * [说明]()
 * java基础
-  * [基础语法](docs/javaBase/grammar)
-  * [数组](docs/javaBase/array)
-  * [面向对象](docs/javaBase/object)
-  * [异常处理](docs/javaBase/exception)
-  * [常用类](docs/javaBase/commonClass)
+
 * java高级
   * 集合
     * [知识总结](docs/javaSenior/collection/basis)
@@ -17,39 +13,12 @@
   * JVM
     * [Java内存区域](docs/javaSenior/JVM/memoryArea)
   * [网络](docs/javaSenior/network)
-  * [反射](docs/javaSenior/reflection)
 * javaEE
   * [jsp]()
   * [mybatis]()
   * [spring]()
-  * [springmvc]()
-  * [maven]()
-  * [shiro]()
-  * [httpclient]()
-  * [activemq]()
 * 微服务
   * [springboot]()
-  * [springcloud]()
 * 数据库
   * [mysql]()
-  * [redis]()
-* 开发工具
-  * [svn]()
-  * [git]()
-  * [nginx]()
-  * [docker]()
-* 操作系统
-  * [linux]()
-* 前端
-  * [html/css]()
-  * [javascript]()
-  * [jquery]()
-  * [bootstrap]()
-  * [vue]()
-  * [element]()
-  * [echarts]()
-* 数据结构与算法
-  * [数据结构]()
-  * [算法]()
-* 资源
-  * [推荐资源]()
+

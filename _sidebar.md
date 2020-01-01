@@ -1,10 +1,10 @@
 * [说明]()
 * java基础
-  - [基础]()
+  * [基础](docs/javaBase/basis)
 * java高级
-  * [集合]()
-  * [并发]()
-  * [IO流]()
+  * [集合](docs/javaSenior/collection)
+  * [并发](docs/javaSenior/thread)
+  * [IO流](docs/javaSenior/io)
   * [网络]()
 * javaEE
   * [jsp]()

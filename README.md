@@ -11,11 +11,11 @@
 
 ### 目录
 - [java基础](#java基础)
-    - [基础](#基础语法)
+    - [基础](docs/javaBase/basis.md)
 - [java高级](#java高级)
-    - [集合](#集合)
-    - [并发](#多线程)
-    - [IO](#IO)
+    - [集合](docs/javaSenior/collection.md)
+    - [并发](docs/javaSenior/thread.md)
+    - [IO](docs/javaSenior/io.md)
     - [网络](#网络)
 - [javaEE](#javaEE)
     - [jsp](#jsp)

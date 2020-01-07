@@ -13,24 +13,18 @@
   * [mysql](docs/javaInterview/interview10)
   * [redis](docs/javaInterview/interview11)
   * [JVM](docs/javaInterview/interview12)
-* java基础
-  * [基础](docs/javaBase/basis)
-* java高级
-  * [集合](docs/javaSenior/collection)
-  * [并发](docs/javaSenior/thread)
-  * [IO流](docs/javaSenior/io)
-  * [网络]()
-* javaEE
-  * [jsp]()
-  * [mybatis]()
-  * [spring]()
-* 微服务
-  * [springboot]()
-* 数据库
-  * [mysql]()
-* 操作系统
-  * [linux]()
-* 前端
+* Java面试常问问题
+  * [Java基础](docs/javaInterviewBlitz/JavaBasis)
+  * [Java容器](docs/javaInterviewBlitz/container)
+  * [Java多线程](docs/javaInterviewBlitz/concurrent)
+  * [Java虚拟机](docs/javaInterviewBlitz/JVM)
+  * [设计模式](docs/javaInterviewBlitz/designPatterns)
+  * [Spring系列](docs/javaInterviewBlitz/spring)
+  * [Mybatis](docs/javaInterviewBlitz/mybatis)
+  * [mysql](docs/javaInterviewBlitz/mysql)
+  * [linux](docs/javaInterviewBlitz/linux)
+* 前端面试题集锦
   * [javascript]()
   * [jquery]()
   * [vue]()
+
